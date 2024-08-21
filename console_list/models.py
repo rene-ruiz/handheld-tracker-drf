@@ -14,6 +14,7 @@ class ConsoleItem(models.Model):
         return f"{self.name}"
 
 class UserConsole(models.Model):
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     console_item = models.ForeignKey(ConsoleItem, on_delete=models.CASCADE)
     date_obtained = models.DateTimeField(auto_now_add=True)

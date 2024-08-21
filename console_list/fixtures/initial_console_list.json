@@ -7,8 +7,7 @@
       "description": "A Handheld gaming device from Bandai. The system was noteworthy for supporting play on the system vertically or horizontally, depending on the particular game.",
       "company": "Bandai Co., Ltd.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/25/176139-wswpeablu.jpg",
-      "original_price": 59.0,
-      "obtained": false
+      "original_price": 59.0
     }
   },
   {
@@ -19,8 +18,7 @@
       "description": "The WonderSwan was a Japan-only handheld game system that had a fairly large library of games and many accessories.",
       "company": "Bandai Co., Ltd.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/4647/2954594-wonderswan-black-left.jpg",
-      "original_price": 0.0,
-      "obtained": false
+      "original_price": 0.0
     }
   },
   {
@@ -31,8 +29,7 @@
       "description": "PlayStation Portable (PSP) is Sony's first entry into the handheld gaming market. The PSP also sports multimedia features including music and video playback, a photo viewer, and an online store. Several model revisions have been released: the PSP-2000, 3000, PSPgo and the PSP-E1000.",
       "company": "Sony Interactive Entertainment",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/2122792-pspmain.png",
-      "original_price": 249.0,
-      "obtained": false
+      "original_price": 249.0
     }
   },
   {
@@ -43,8 +40,7 @@
       "description": "The N-Gage (later re-released as N-Gage QD) was a failed gaming platform developed by phone manufacturer Nokia. Games in MMC-Card format were sold for the platform, and towards the end, games were available for download to your own MMC.",
       "company": "Nokia",
       "image": "https://www.giantbomb.com/a/uploads/original/1/14912/702653-ngageqd.jpg",
-      "original_price": 299.0,
-      "obtained": false
+      "original_price": 299.0
     }
   },
   {
@@ -55,8 +51,7 @@
       "description": "Nintendo's first handheld gaming console was immensely popular among gamers, selling millions. Despite its grayscale color scheme, it still got support from developers and publishers.",
       "company": "Nintendo",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/1426210-logo.jpg",
-      "original_price": 179.0,
-      "obtained": false
+      "original_price": 179.0
     }
   },
   {
@@ -67,8 +62,7 @@
       "description": "The first gaming handheld, Surpisingly big but extremely rare.",
       "company": "Milton Bradley Co.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/26/10813-MicroVision.jpg",
-      "original_price": 0.0,
-      "obtained": false
+      "original_price": 0.0
     }
   },
   {
@@ -79,8 +73,7 @@
       "description": "The Neo Geo Pocket is SNK Playmore's first handheld video game console. The console did not do as well as expected, and had a short life span and small game library.",
       "company": "SNK",
       "image": "https://www.giantbomb.com/a/uploads/original/0/4647/2954592-neo-geo-pocket-anthra-left.jpg",
-      "original_price": 0.0,
-      "obtained": false
+      "original_price": 0.0
     }
   },
   {
@@ -91,8 +84,7 @@
       "description": "The Gizmondo is a failed handheld console, which launched in 2005. It was potentially revolutionary for having functionality such as GPRS mobile data connection, a camera, GPS, a multimedia player and of course game playing all in one unit.",
       "company": "Gizmondo Europe Ltd.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/26/10602-gizmondo.jpg",
-      "original_price": 229.0,
-      "obtained": false
+      "original_price": 229.0
     }
   },
   {
@@ -103,8 +95,7 @@
       "description": "The Nintendo DS is a handheld featuring two screens, one of which is a resistive touchscreen. Four different models are available: the original DS, the DS Lite, the DSi, the DSi XL.",
       "company": "Nintendo",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/2122822-ds.png",
-      "original_price": 149.0,
-      "obtained": false
+      "original_price": 149.0
     }
   },
   {
@@ -115,8 +106,7 @@
       "description": "Nintendo's successor to the Game Boy, featuring a color screen and backwards compatibility for all previous Game Boy titles.",
       "company": "Nintendo",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/1426240-logo.jpg",
-      "original_price": 70.0,
-      "obtained": false
+      "original_price": 70.0
     }
   },
   {
@@ -127,8 +117,7 @@
       "description": "The third platform in the Game Boy line, the Game Boy Advance was offered in a multitude of colors and had three hardware offerings, the sideways Game Boy Advance, the flip Game Boy Advance SP and the tiny Game Boy Advance Micro.",
       "company": "Nintendo",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/2121789-gba.png",
-      "original_price": 100.0,
-      "obtained": false
+      "original_price": 100.0
     }
   },
   {
@@ -139,8 +128,7 @@
       "description": "A Palm based PDA/Portable games console with a touch screen, which for a short time had an active homebrew community. It was released in two different editions with different amounts of onboard memory, the Zodiac 1 (32MB) and the Zodiac 2 (128MB).",
       "company": "Tapwave, Inc.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/4647/2954587-tapwave-zodiac2-fl.jpg",
-      "original_price": 299.0,
-      "obtained": false
+      "original_price": 299.0
     }
   },
   {
@@ -151,8 +139,7 @@
       "description": "The LeapFrog Leapster is a stylus-based educational game device aimed at children under 10.",
       "company": "LeapFrog Enterprises",
       "image": "https://www.giantbomb.com/a/uploads/original/0/26/10607-leapster.jpg",
-      "original_price": 80.0,
-      "obtained": false
+      "original_price": 80.0
     }
   },
   {
@@ -163,8 +150,7 @@
       "description": "The Neo Geo Pocket Color is a 16 bit color handheld console from SNK.",
       "company": "SNK",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/1426322-logo.jpg",
-      "original_price": 70.0,
-      "obtained": false
+      "original_price": 70.0
     }
   },
   {
@@ -175,8 +161,7 @@
       "description": "Tiger's second short-lived portable console was a video game and PDA hybrid",
       "company": "Tiger Electronics, Inc.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/4647/2954597-tiger-game-com-fl.jpg",
-      "original_price": 70.0,
-      "obtained": false
+      "original_price": 70.0
     }
   },
   {
@@ -187,8 +172,7 @@
       "description": "The R-Zone was a heavily marketed, cartridge based LCD handheld that ultimately flopped.  It marked Tiger's first attempt at a handheld game system.",
       "company": "Tiger Electronics, Inc.",
       "image": "https://www.giantbomb.com/a/uploads/original/0/4647/2954595-tiger-rzone-headset.jpg",
-      "original_price": 0.0,
-      "obtained": false
+      "original_price": 0.0
     }
   },
   {
@@ -199,8 +183,7 @@
       "description": "Atari's 1989 color, backlit handheld console",
       "company": "Atari SA",
       "image": "https://www.giantbomb.com/a/uploads/original/0/26/10608-lynx2.jpg",
-      "original_price": 190.0,
-      "obtained": false
+      "original_price": 190.0
     }
   },
   {
@@ -211,8 +194,7 @@
       "description": "Sega's first hand held video game system.  It was the portable version of the Master System.",
       "company": "Sega",
       "image": "https://www.giantbomb.com/a/uploads/original/0/1992/1426271-logo.jpg",
-      "original_price": 150.0,
-      "obtained": false
+      "original_price": 150.0
     }
   },
   {
@@ -223,8 +205,7 @@
       "description": "The Adventure Vision is a handheld video game console developed by Entex Industries in 1982.",
       "company": "Entex",
       "image": "https://www.giantbomb.com/a/uploads/original/0/46/1248213-adventurevision.jpg",
-      "original_price": 70.0,
-      "obtained": false
+      "original_price": 70.0
     }
   }
 ]
