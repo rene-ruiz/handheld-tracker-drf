@@ -15,7 +15,7 @@ This is the backend for the Handheld Tracker project, built using Django and Dja
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/handheld-tracker-backend.git
+    git clone https://github.com/rene-ruiz/handheld-tracker-backend.git
     cd handheld-tracker-backend
     ```
 
